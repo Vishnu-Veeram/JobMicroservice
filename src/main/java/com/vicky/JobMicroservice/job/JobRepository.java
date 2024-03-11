@@ -1,4 +1,4 @@
-package com.vicky.microservices.job;
+package com.vicky.JobMicroservice.job;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,4 +1,4 @@
-package com.vicky.microservices.job;
+package com.vicky.JobMicroservice.job;
 
 import com.vicky.microservices.company.Company;
 import jakarta.persistence.*;

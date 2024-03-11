@@ -1,4 +1,4 @@
-package com.vicky.microservices.job;
+package com.vicky.JobMicroservice.job;
 
 import java.util.List;
 

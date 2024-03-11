@@ -1,12 +1,10 @@
-package com.vicky.microservices.job.impl;
+package com.vicky.JobMicroservice.job.impl;
 
 import com.vicky.microservices.job.Job;
 import com.vicky.microservices.job.JobRepository;
 import com.vicky.microservices.job.JobService;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Optional;
 
